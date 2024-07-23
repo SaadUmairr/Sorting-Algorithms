@@ -368,3 +368,6 @@ output.txt
 
 # Temporary generated vscode coderunner runtime files
 tempCodeRunnerFile.*
+
+# Ignore .vscode directories at any depth
+**/.vscode/
